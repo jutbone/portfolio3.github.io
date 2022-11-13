@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+body{
+	overflow-x:hidden;
+
+}
+.overlay{
+	background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('photo1.jpg');
+	width: 100%;
+	height: 100vh;
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.mylogo{
+	color: white;
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+}
+
+.mylogo2{
+	color: orange;
+}
+.headtitle{
+	margin-top:13rem;
+	/*margin-left:13rem;
+*/
+ text-align: center;
+}
+.myname{
+	color: white;
+	text-align: center;
+	font-size: 60px;
+}
+.myname2{
+	color: white;
+	text-align: center;
+	margin-top: -20px;
+
+}
+.mycenter{
+	text-align: center;
+	margin-top: 28%;
+
+}
+
+
+
+
